@@ -8,14 +8,14 @@
 
 - **Plataforma:** PC  
 - **Estilo:** Arcade/Desafio  
-- **Engine:** Unity
+- **Engine:** Godot
 
 ### Controles  
 #### Controle (Joystick)
 - **Movimentação:** Analógico esquerdo  
 
 #### Teclado
-- **Movimentação:** W, A, S, D  
+- **Movimentação:** ↑, ←, ↓, →  
 
 ---
 
